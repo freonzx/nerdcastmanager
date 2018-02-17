@@ -1,2 +1,2 @@
-# nerdcastmanager
-Python script made to download and manage nerdcasts
+# Nerdcast Manager
+Python script made to download all of the episodes and manage it
